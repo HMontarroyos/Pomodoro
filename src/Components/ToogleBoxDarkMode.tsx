@@ -4,12 +4,12 @@ import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons'
 
 export function ToogleBoxDarkMode(){
     //TODO: AJUSTAR "document.querySelector" PARA O REACT 
-    const html = document.querySelector('html')
+/*     const html = document.querySelector('html')
     const checkbox = document.getElementById('theme');
 
     checkbox.addEventListener('change', () => {
         html.classList.toggle('darkMode');
-    });
+    }); */
 
     return(
         <div className={Styles.themeDark}>
