@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NLW 04 - Projeto MoviIT - Pomodoro - Focado na Gameficação 
 
-## Getting Started
+Projeto Desenvolvido na NLW 04, Onde o mesmo se trata de um especie de Pomodoro e a cada interação com as 
+tarefas concluidas o usuario ganha XP equivalente para poder subir de nível . 
 
-First, run the development server:
+Neste Projeto focou bastante no uso de Context API no React e também da questão do module.css
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### Ferramentas Utilizadas na Criação do Projeto  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+* [NextJS](https://nextjs.org/).
+Next.js é uma estrutura da web de desenvolvimento front-end do React de código aberto que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+* [Vercel](https://vercel.com/)
+Utilizado para efetuar o Deploy e subir no ar a aplicação criada no Next. 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Deploy da Aplicação 
 
-## Learn More
+[Deploy_da_Aplicação](https://pomodoro-hmontarroyos.vercel.app/)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### `npx create-next-app nome_do_seu_projeto`
 
-## Deploy on Vercel
+Iniciando um Projeto Next JS com React  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### `npm install`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Para Baixar as Dependências do Projeto 
+
+### `npm run dev`
+
+Para Inicializar o Projeto 
+Abrir [http://localhost:3000](http://localhost:3000) vizualizar no Navegador. 
+
+<img width="897" alt="nlw04" src="https://user-images.githubusercontent.com/60220406/109581128-9ec37180-7ada-11eb-808a-6aed9c52fb8a.png">
+
+### Modo Dark 
+
+<img width="914" alt="Modo dark" src="https://user-images.githubusercontent.com/60220406/109581130-9ff49e80-7ada-11eb-89da-d3fdf05c3653.png">
+
+
+
+### 🚀 Let's code! 🚀 ###
+

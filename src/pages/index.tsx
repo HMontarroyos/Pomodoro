@@ -9,6 +9,7 @@ import Styles from '../Styles/Components/Home.module.css';
 import ChallengeBox from '../Components/ChallengeBox';
 import { CountDownProvider } from '../Context/CountDownContext';
 import { ChallengesProvider } from '../Context/ChallengesContext';
+import { ToogleBoxDarkMode } from '../Components/ToogleBoxDarkMode';
 
 interface HomeProps {
 	level: number;
@@ -25,6 +26,7 @@ export default function Home(props: HomeProps) {
 					<title>Inicio | Pomodoro.it</title>
 				</Head>
 				<ExperienceBar/>
+				<ToogleBoxDarkMode/>
 				<CountDownProvider>
 					<section>
 						<div>
