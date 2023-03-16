@@ -83,7 +83,7 @@ Abrir [http://localhost:3000](http://localhost:3000) vizualizar no Navegador.
 
 <br>
 
-### <strong>Deploy da aplicação </strong> 
+### <strong>Deploy da aplicação</strong> 
 <br>
 
 [![Deploy][Deploy]][Deploy-url]
