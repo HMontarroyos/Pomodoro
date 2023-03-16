@@ -1,8 +1,7 @@
 import React, {useEffect } from 'react';
 import Styles from '../Styles/Components/ToogleBoxDarkMode.module.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons';
-
+import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons'
 
 export function ToogleBoxDarkMode(){
     useEffect(() => {
