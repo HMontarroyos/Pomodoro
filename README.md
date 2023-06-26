@@ -22,6 +22,10 @@
 
 <br>
 
+#### <strong>Desktop</strong>
+
+<br>
+
 <img width="897" alt="nlw04" src="https://user-images.githubusercontent.com/60220406/109581128-9ec37180-7ada-11eb-808a-6aed9c52fb8a.png">
 
 <br>
@@ -31,6 +35,19 @@
 <br>
 
 <img width="914" alt="Modo dark" src="https://user-images.githubusercontent.com/60220406/109581130-9ff49e80-7ada-11eb-89da-d3fdf05c3653.png">
+
+<br>
+
+<br>
+
+#### <strong>Mobile</strong>
+
+<img width="300" alt="mobile home" src="https://i.ibb.co/9Ysp7s1/mobile.png">
+
+<br>
+
+<img width="300" alt="mobile home-dark" src="https://i.ibb.co/gZ1hv7q/mobile-dark.png">
+
 
 <br>
 
