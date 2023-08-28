@@ -114,14 +114,14 @@ Abrir [http://localhost:3000](http://localhost:3000) vizualizar no Navegador.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/HMontarroyos/NLW04_React_Pomodoro.svg?style=for-the-badge
-[contributors-url]: https://github.com/HMontarroyos/NLW04_React_Pomodoro/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HMontarroyos/NLW04_React_Pomodoro.svg?style=for-the-badge
-[forks-url]: https://github.com/HMontarroyos/NLW04_React_Pomodoro/fork
-[stars-shield]: https://img.shields.io/github/stars/HMontarroyos/NLW04_React_Pomodoro.svg?style=for-the-badge
-[stars-url]: https://github.com/HMontarroyos/NLW04_React_Pomodoro/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HMontarroyos/NLW04_React_Pomodoro.svg?style=for-the-badge
-[issues-url]: https://github.com/HMontarroyos/NLW04_React_Pomodoro/issues
+[contributors-shield]: https://img.shields.io/github/contributors/HMontarroyos/pomodoro.svg?style=for-the-badge
+[contributors-url]: https://github.com/HMontarroyos/pomodoro/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HMontarroyos/pomodoro.svg?style=for-the-badge
+[forks-url]: https://github.com/HMontarroyos/pomodoro/fork
+[stars-shield]: https://img.shields.io/github/stars/HMontarroyos/pomodoro.svg?style=for-the-badge
+[stars-url]: https://github.com/HMontarroyos/pomodoro/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HMontarroyos/pomodoro.svg?style=for-the-badge
+[issues-url]: https://github.com/HMontarroyos/pomodoro/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hebertmontarroyos-developer/
 
